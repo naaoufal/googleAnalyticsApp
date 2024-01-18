@@ -6,7 +6,7 @@ import ReactGA from 'react-ga';
 import CommentScreen from './screens/CommentScreen';
 import ProductScreen from './screens/ProductScreen';
 
-ReactGA.initialize('G-C21T1T28B9');
+ReactGA.initialize('G-9NG5P6YKZV');
 
 function App() {
 
