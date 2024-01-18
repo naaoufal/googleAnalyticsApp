@@ -1,0 +1,43 @@
+.suggestionDiv {
+    /* background-color: aqua; */
+    /* width: 90%; */
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.subSugg {
+    /* justify-content: center; */
+    /* background-color: blueviolet; */
+    width: 80%;
+    padding-bottom: 20px;
+    display: flex;
+    /* justify-content: center; */
+    /* flex-direction: column; */
+}
+.parentDiv {
+    /* padding: 10px; */
+}
+.parentCard {
+    display: flex;
+    justify-content: center;
+}
+.cardDiv {
+    /* background-color: red; */
+    border-radius: 16px;
+    border-radius: 6px;
+    border: 2px solid #000;
+    /* width: 100px; */
+    /* height: 100px; */
+    /* flex-direction: row; */
+    width: 25%;
+}
+.suggImage {
+    width: 100px;
+    /* height: 60px; */
+}
+.titleSugg {
+    font-size: 32px;
+    font-family: monospace;
+    font-weight: bold;
+}
