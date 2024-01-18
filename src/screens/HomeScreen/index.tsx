@@ -1,7 +1,6 @@
 import { Box, Grid } from "@mui/material";
 import './index.css';
 import NavBar from "../../components/NavBar";
-import SuggestionScreen from "../SuggestionScreen";
 
 const DATA = [
     {id: 1, name: "servie-1"},

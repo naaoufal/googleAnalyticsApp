@@ -1,8 +1,5 @@
 import React, { useEffect } from 'react';
-import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/NavBar';
-import CarouselScreen from './components/Carousel';
 import HomeScreen from './screens/HomeScreen';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ReactGA from 'react-ga';
