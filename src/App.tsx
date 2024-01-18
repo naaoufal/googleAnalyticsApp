@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import './App.css';
 import HomeScreen from './screens/HomeScreen';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 import CommentScreen from './screens/CommentScreen';
 import ProductScreen from './screens/ProductScreen';
 
